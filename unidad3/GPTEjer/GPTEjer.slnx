@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Cinco/Cinco.csproj" Id="e91d8b98-d5b8-4c70-ba93-8b2638408706" />
+  <Project Path="Cuatro/Cuatro.csproj" Id="1513ce7e-259c-4443-bc63-ee5845c4765b" />
+  <Project Path="Dos/Dos.csproj" Id="51b4b482-9952-4d16-840e-ae58bd33babf" />
+  <Project Path="EjerDeabelPerimetro/EjerDeabelPerimetro.csproj" Id="a365778f-719a-49f1-8fd1-e4c4b69a2fdf" />
+  <Project Path="tres/Tres.csproj" Id="ac47762f-5643-4ee8-9898-b1357016a50f" />
+  <Project Path="Uno/Uno.csproj" Id="b0b93fdf-9262-40df-aaac-5a4a5b89588e" />
+</Solution>

@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="ejemplo2/ejemplo2.csproj" Id="8c5ac32c-12bb-40c9-9cfc-fcab4126ed9d" />
+  <Project Path="ejemplo4/ejemplo4.csproj" Id="49328470-0eb3-4dc9-9c65-ff07404a59c0" />
+  <Project Path="ejemplo5/ejemplo5.csproj" Id="cc822fa8-6830-486d-aa8f-204fbab38f35" />
+  <Project Path="ejemplo_3/ejemplo_3.csproj" Id="cb768e80-2af7-4a89-bfae-37e2bf0f470f" />
+  <Project Path="practica1-1/practica1-1.csproj" Id="11a83933-5220-4553-a1df-3913f74f9fcc" />
+  <Project Path="WindowsFormsApp1/WindowsFormsApp1.csproj" Id="5dbad137-932d-47ba-922f-6562e3e89b4e" />
+</Solution>

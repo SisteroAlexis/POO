@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Ejemplo1/Ejemplo1.csproj" Id="8145a2b3-13db-4f1f-94fb-14e717cd333f" />
+  <Project Path="Ejemplo2/Ejemplo2.csproj" Id="0ca58c87-b419-4633-930a-9234bd355a4f" />
+  <Project Path="GPTejer1/GPTejer1.csproj" Id="43bb9018-b479-421b-ba5c-707e7837ffef" />
+  <Project Path="Gptejer2List/Gptejer2List.csproj" Id="75cea0d0-229f-46db-8ced-4564f9e6601a" />
+</Solution>
